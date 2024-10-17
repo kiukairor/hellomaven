@@ -1,0 +1,21 @@
+# Ignore build directory
+/target/
+
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore Maven wrapper files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Ignore OS-specific files
+.DS_Store
+*.log
+
+# Ignore compiled files
+*.class
+
+# Ignore JAR/WAR files
+*.jar
+*.war
